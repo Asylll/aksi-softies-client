@@ -1,0 +1,12 @@
+.select {
+    width: fit-content;
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.option {
+    font-size: 14px;
+}
